@@ -1,0 +1,10 @@
+.code
+load x
+add 9
+sub 8
+mult y
+store 7
+load 4
+add 6
+store z
+endp

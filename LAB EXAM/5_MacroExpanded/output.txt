@@ -1,0 +1,8 @@
+.code
+add a
+sub b
+add b
+sub a
+add a
+sub b
+endp 

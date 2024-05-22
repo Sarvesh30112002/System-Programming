@@ -1,0 +1,5 @@
+.code
+XYZ 9,8,7
+ABC 4,6
+store z
+endp

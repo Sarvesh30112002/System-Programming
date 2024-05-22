@@ -1,0 +1,5 @@
+MOV
+ADD
+SUB
+JNZ
+HLT
